@@ -1,7 +1,4 @@
 # backend-coding-challenge
-
-Please organize, design and document your code as if it were going into production, then send us a link to the hosted repository (e.g. Github, Bitbucket, Gitlab...).
-
 ## Technical specs
 
 A REST microservice based on spring boot. 
